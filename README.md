@@ -7,6 +7,9 @@ sudo apt-get install git
 sudo apt-get install libtool
 
 sudo apt-get install libssl-dev
+
+# Only Windows by WSL
+sudo apt install pkg-config
 ```
 
 ### Preparing environment
